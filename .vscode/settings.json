@@ -1,4 +1,5 @@
 {
+  // editor
   "editor.wordWrap": "on",
   "editor.fontSize": 18,
   "editor.lineHeight": 30,
